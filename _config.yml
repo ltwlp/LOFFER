@@ -14,7 +14,7 @@ description: 生而为人,你且修身,你且渡人,你且如水,居恶渊而为
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: ./logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
@@ -39,7 +39,7 @@ excerpt_separator: 2222<!-- more -->1111111111111
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: https://www.weibo.com/5056924774
+  weibo: https://weibo.com/571653333
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: 1319873777@qq.com
