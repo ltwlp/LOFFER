@@ -61,14 +61,14 @@ footer-text: 每一行代码都是有灵魂的！
 # 评论，注意，请不要同时添加多种不同的评论区
 
 # 输入Disqus shortname，即可添加评论区
-disqus: Disqus shortname
+disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: a41a77517f55e4565748
+  clientSecret: bc7198034f75f61345467786d8177cefc700427a
+  repo: soul
+  owner: ltwlp
 
 # 输入Google Analytics web tracking code
 google_analytics:
