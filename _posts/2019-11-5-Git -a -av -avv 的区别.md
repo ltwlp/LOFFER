@@ -1,3 +1,4 @@
+---
 layout: post
 title: 【转载】Git -a -av -avv 的区别
 date: 2019-11-5
@@ -5,6 +6,7 @@ Author: 王立鹏
 tags:
 comments: true
 toc: true
+---
 
 # Git -a -av -avv 的区别
 
